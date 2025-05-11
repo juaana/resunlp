@@ -1,6 +1,6 @@
 import Badge from "./Badge";
 import Button from "./Button";
-function Card({title, year, quarter, courseYear, slug, practice, external, link}) {
+function Card({title, year, quarter, courseYear, slug, practice, external, link, buttonText}) {
   
 
     return (
@@ -16,7 +16,7 @@ function Card({title, year, quarter, courseYear, slug, practice, external, link}
                 {title}
             </h3>
         </div>
-        {external? (<Button external link={link}>Ver más</Button>) : (<Button link={`/materia/${slug}`}>Ver más</Button>)}
+        {external? (<Button external link={link}>{buttonText}</Button>) : (<Button link={`/materia/${slug}`}>{buttonText}</Button>)}
           
       </>
     )

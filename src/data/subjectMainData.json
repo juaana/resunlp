@@ -120,45 +120,97 @@
     {
       "title": "Geometría",
       "practice": "Trabajo práctico 1",
-      "link": ""
+      "link": "",
+      "type": "apuntes"
     },
     {
       "title": "Demostraciones, conjuntos y funciones",
       "practice": "Trabajo práctico 2",
-      "link": "https://drive.google.com/file/d/1ty6zF89tYFG5yzCappavqPVFTr0ESI13/view?usp=drive_link"
+      "link": "https://drive.google.com/file/d/1ty6zF89tYFG5yzCappavqPVFTr0ESI13/view?usp=drive_link",
+      "type": "apuntes"
     },
     {
       "title": "Álgebra de Boole",
       "practice": "Trabajo práctico 3",
-      "link": "https://drive.google.com/file/d/18DeMT2Ex3b22D-dyoJZTm-pvB6VKEGzh/view?usp=drive_link"
+      "link": "https://drive.google.com/file/d/18DeMT2Ex3b22D-dyoJZTm-pvB6VKEGzh/view?usp=drive_link",
+      "type": "apuntes"
     },
     {
       "title": "Combinatoria y métodos de conteo",
       "practice": "Trabajo práctico 4",
-      "link": "https://drive.google.com/file/d/1OHp2qzwnDaKDNstxzMmwMwfjqSiIjIBM/view?usp=drive_link"
+      "link": "https://drive.google.com/file/d/1OHp2qzwnDaKDNstxzMmwMwfjqSiIjIBM/view?usp=drive_link",
+      "type": "apuntes"
     },
     {
       "title": "Resumen acotado de todo el primer examen",
       "practice": "Extra",
-      "link": "https://drive.google.com/file/d/1hVYZ4gaiI-TvC5swpkhr8aWwa_FpFBwY/view?usp=drive_link"
+      "link": "https://drive.google.com/file/d/1hVYZ4gaiI-TvC5swpkhr8aWwa_FpFBwY/view?usp=drive_link",
+      "type": "apuntes"
     },
     {
       "title": "Sucesiones e inducción",
       "practice": "Trabajo práctico 5",
-      "link": ""
+      "link": "",
+      "type": "apuntes"
     },
     {
       "title": "Matrices",
       "practice": "Trabajo práctico 6",
-      "link": ""
+      "link": "",
+      "type": "apuntes"
+      
     },
     {
       "title": "Sistemas de ecuaciones y determinantes",
       "practice": "Trabajo práctico 7",
-      "link": ""
-    }]
-  }
-    ,
+      "link": "",
+      "type": "apuntes"
+    }],
+    "ejercicios": [
+      {
+        "title": "TP1 | Geometría",
+        "practice": "Trabajo práctico 1",
+        "link": "",
+        "type": "ejercicios"
+      },
+      {
+        "title": "TP2 | Demostraciones, conjuntos y funciones",
+        "practice": "Trabajo práctico 2",
+        "link": "https://drive.google.com/file/d/1ET6XKyZcunXBzEaBzR4jQ36Nd7EBnUf8/view?usp=sharing",
+        "type": "ejercicios"
+      },
+      {
+        "title": "TP3 | Álgebra de Boole",
+        "practice": "Trabajo práctico 3",
+        "link": "https://drive.google.com/file/d/1oHKsuAk8OcjQOCy6VQRVMOFCplqz-Ce8/view?usp=sharing",
+        "type": "ejercicios"
+      },
+      {
+        "title": "TP4 | Combinatoria y métodos de conteo",
+        "practice": "Trabajo práctico 4",
+        "link": "",
+        "type": "ejercicios"
+      },
+      {
+        "title": "TP5 | Sucesiones e inducción",
+        "practice": "Trabajo práctico 5",
+        "link": "",
+        "type": "ejercicios"
+      },
+      {
+        "title": "TP6 | Matrices",
+        "practice": "Trabajo práctico 6",
+        "link": "",
+        "type": "ejercicios"
+
+      },
+      {
+        "title": "TP7 | Sistemas de ecuaciones y determinantes",
+        "practice": "Trabajo práctico 7",
+        "link": "",
+        "type": "ejercicios"
+      }] 
+    } ,
     { 
       "title": "Conceptos de algoritmos, datos y programas", 
       "year": "2023", 
@@ -189,7 +241,30 @@
       "quarter": "2do cuatrimestre", 
       "courseYear": "1er año", 
       "slug": "taller-de-programacion",
-      "description": "Curso práctico centrado en el desarrollo de habilidades de programación y resolución de problemas."
+      "description": "Curso práctico centrado en el desarrollo de habilidades de programación y resolución de problemas.",
+      "ejercicios": [
+        {
+          "title": "Imperativo",
+          "practice": "Parte 1",
+          "link": "https://github.com/juaana/imperative",
+          "type": "ejercicios"
+        },
+        {
+          "title": "Orientación a objetos",
+          "practice": "Parte 2",
+          "link": "https://github.com/juaana/OOP/",
+          "type": "ejercicios"
+        },
+        {
+          "title": "Concurrencia",
+          "practice": "Parte 3",
+          "link": "https://github.com/juaana/concurrent_programming/tree/main/2024",
+          "type": "ejercicios"
+        }
+
+        
+      ]
+
     },
     { 
       "title": "Arquitectura de computadoras", 
