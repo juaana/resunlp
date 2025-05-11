@@ -1,0 +1,219 @@
+[
+    {
+      "title": "Matemática 1",
+      "year": "2024",
+      "quarter": "1er cuatrimestre",
+      "courseYear": "1er año",
+      "slug": "matematica-1",
+      "description": "Materia básica que cubre los conceptos fundamentales de matemáticas para el primer año de la carrera.",
+      "resources": {
+        "Geometría": {
+          "Recta": [
+            "https://www.youtube.com/watch?v=GBSmycLgTeU"
+          ],
+          "Parábola": [
+            "https://www.youtube.com/watch?v=FlsYCYbmJGU&t=5s",
+            "https://www.youtube.com/watch?v=_Q9RXHL66oU&t=823s",
+            "https://www.youtube.com/watch?v=DXrwxQlLs5E&t=77s"
+          ],
+          "Circunferencia": [
+            "https://www.youtube.com/watch?v=vICf_JIwar4",
+            "https://www.youtube.com/watch?v=jk9V5OkJlAg"
+          ]
+        },
+        "Álgebra de Boole": {
+          "Reglas o axiomas": [
+            "https://www.youtube.com/watch?v=vOSCevaytLA&t=275s",
+            "https://www.youtube.com/watch?v=XjYkI_TwWd0"
+          ],
+          "Teoremas": [
+            "https://www.youtube.com/watch?v=zrpQtk4PSrA&t=164s"
+          ],
+          "Funciones booleanas": [
+            "https://www.youtube.com/watch?v=vNL0yPdHv1U"
+          ]
+        },
+        
+        "Sucesiones o progresiones aritméticas": {
+          "Introducción": [
+            "https://www.youtube.com/watch?v=VvOoYZj_OiE"
+          ],
+          "Término n-ésimo conociendo la sucesión": [
+            "https://www.youtube.com/watch?v=08_exV8PpPM&t=485s"
+          ],
+          "Término n-ésimo conociendo un término y la diferencia": [
+            "https://www.youtube.com/watch?v=4IQiSytb4wk"
+          ],
+          "Término general conociendo cualquier término y la diferencia": [
+            "https://www.youtube.com/watch?v=1sb3tAxYV8w&t=89s"
+          ],
+          "Término general conociendo la sucesión": [
+            "https://www.youtube.com/watch?v=RS6MWaHigcw&t=8s"
+          ]
+        },
+        "Sucesiones o progresiones geométricas": {
+          "Término n-ésimo de una sucesión": [
+            "https://www.youtube.com/watch?v=U-hhp4x4JcE&t=145s"
+          ]
+        },
+        "Sumatoria": {
+          "Notación sigma": [
+            "https://www.youtube.com/watch?v=RS6MWaHigcw&t=8s"
+          ],
+          "Notación sigma en calculadora": [
+            "https://www.youtube.com/shorts/eq0dwkLxeQQ"
+          ]
+        },
+        "Inducción matemática": {
+          "Introducción a la inducción matemática": [
+            "https://www.youtube.com/watch?v=zc1XTQ4jLw8&t=4s"
+          ],
+          "Demostrar una fórmula por inducción matemática": [
+            "https://www.youtube.com/watch?v=orhBEEKe9Ws&t=28s"
+          ]
+        },
+        "Matrices": {
+          "¿Qué es una matriz?": [
+            "https://www.youtube.com/watch?v=orhBEEKe9Ws&t=28s"
+          ],
+          "Introducción a matrices": [
+            "https://www.youtube.com/watch?v=m6w5vLA3Lnw&t=398s"
+          ],
+          "Tipos de matrices": [
+            "https://www.youtube.com/watch?v=GyrQmbxk7ds&t=449s"
+          ],
+          "Matrices cuadradas: clasificación": [
+            "https://www.youtube.com/watch?v=qHJcD2a1Qwo&t=3s"
+          ],
+          "Suma de matrices": [
+            "https://www.youtube.com/watch?v=S89lkpvajyU&t=295s"
+          ],
+          "Resta de matrices": [
+            "https://www.youtube.com/watch?v=TFNhQq8wxmY&t=453s"
+          ],
+          "Multiplicación de matrices": [
+            "https://www.youtube.com/watch?v=uH8TOZ8rLZE&t=1s"
+          ],
+          "Inversa de una matriz de 2x2": [
+            "https://www.youtube.com/watch?v=ByW-Uc1V3gQ"
+          ],
+          "Inversa de una matriz de 3x3": [
+            "https://www.youtube.com/watch?v=ByW-Uc1V3gQ"
+          ],
+          "Forma escalonada y reducida de una matriz": [
+            "https://www.youtube.com/watch?v=o4NpFKc7bSw&t=14s"
+          ],
+          "Propiedades de la matriz inversa": [
+            "https://www.youtube.com/watch?v=FhJbz5T0vDs&t=7s"
+          ],
+          "Rango de una matriz": [
+            "https://www.youtube.com/watch?v=klCbWxqlXRo"
+          ]
+        },
+        "Sistemas de ecuaciones": {
+          "Sistemas de ecuaciones de 3x3 por GAUSS": [
+            "https://www.youtube.com/watch?v=SxT5Sbn8odE"
+          ]
+        }
+      },
+      "apuntes": [
+    {
+      "title": "Geometría",
+      "practice": "Trabajo práctico 1",
+      "link": ""
+    },
+    {
+      "title": "Demostraciones, conjuntos y funciones",
+      "practice": "Trabajo práctico 2",
+      "link": "https://drive.google.com/file/d/1ty6zF89tYFG5yzCappavqPVFTr0ESI13/view?usp=drive_link"
+    },
+    {
+      "title": "Álgebra de Boole",
+      "practice": "Trabajo práctico 3",
+      "link": "https://drive.google.com/file/d/18DeMT2Ex3b22D-dyoJZTm-pvB6VKEGzh/view?usp=drive_link"
+    },
+    {
+      "title": "Combinatoria y métodos de conteo",
+      "practice": "Trabajo práctico 4",
+      "link": "https://drive.google.com/file/d/1OHp2qzwnDaKDNstxzMmwMwfjqSiIjIBM/view?usp=drive_link"
+    },
+    {
+      "title": "Resumen acotado de todo el primer examen",
+      "practice": "Extra",
+      "link": "https://drive.google.com/file/d/1hVYZ4gaiI-TvC5swpkhr8aWwa_FpFBwY/view?usp=drive_link"
+    },
+    {
+      "title": "Sucesiones e inducción",
+      "practice": "Trabajo práctico 5",
+      "link": ""
+    },
+    {
+      "title": "Matrices",
+      "practice": "Trabajo práctico 6",
+      "link": ""
+    },
+    {
+      "title": "Sistemas de ecuaciones y determinantes",
+      "practice": "Trabajo práctico 7",
+      "link": ""
+    }]
+  }
+    ,
+    { 
+      "title": "Conceptos de algoritmos, datos y programas", 
+      "year": "2023", 
+      "quarter": "1er cuatrimestre", 
+      "courseYear": "1er año", 
+      "slug": "conceptos-de-algoritmos-datos-y-programas",
+      "description": "Introducción a los algoritmos, estructuras de datos y conceptos básicos de programación."
+    },
+    { 
+      "title": "Organización de computadoras", 
+      "year": "2023", 
+      "quarter": "1er cuatrimestre", 
+      "courseYear": "1er año", 
+      "slug": "organizacion-de-computadoras",
+      "description": "Estudio de la arquitectura interna de las computadoras, incluyendo procesadores y memoria."
+    },
+    { 
+      "title": "Matemática 2", 
+      "year": "2024", 
+      "quarter": "2do cuatrimestre", 
+      "courseYear": "1er año", 
+      "slug": "matematica-2",
+      "description": "Expansión de los conceptos matemáticos, incluyendo álgebra avanzada y cálculo."
+    },
+    { 
+      "title": "Taller de programación", 
+      "year": "2024", 
+      "quarter": "2do cuatrimestre", 
+      "courseYear": "1er año", 
+      "slug": "taller-de-programacion",
+      "description": "Curso práctico centrado en el desarrollo de habilidades de programación y resolución de problemas."
+    },
+    { 
+      "title": "Arquitectura de computadoras", 
+      "year": "2023", 
+      "quarter": "2do cuatrimestre", 
+      "courseYear": "1er año", 
+      "slug": "arquitectura-de-computadoras",
+      "description": "Estudio de la arquitectura y funcionamiento de los sistemas informáticos a nivel de hardware."
+    },
+    { 
+      "title": "Fundamentos de organización de datos", 
+      "year": "2025", 
+      "quarter": "1er cuatrimestre", 
+      "courseYear": "2do año", 
+      "slug": "fundamentos-de-organizacion-de-datos",
+      "description": "Exploración de los principios y técnicas para la organización eficiente de grandes volúmenes de datos."
+    },
+    { 
+      "title": "Seminario de lenguaje - PHP, React, API Rest", 
+      "year": "2024", 
+      "quarter": "2do cuatrimestre", 
+      "courseYear": "2do año", 
+      "slug": "seminario-de-lenguaje-php-react-api-rest",
+      "description": "Curso avanzado de desarrollo web que abarca PHP, React y la creación de APIs REST."
+    }
+  ]
+  

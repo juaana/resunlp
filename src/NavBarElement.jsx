@@ -1,3 +1,6 @@
+import { Link } from 'react-router-dom';
+
+
 
 
 function NavBarElement({link, children}) {
@@ -6,7 +9,7 @@ function NavBarElement({link, children}) {
     return (
       <>
         <li>
-          <a href={link}>{children}</a>
+            <Link to={link}>{children}</Link>
         </li>   
       </>
     )
