@@ -217,7 +217,47 @@
       "quarter": "1er cuatrimestre", 
       "courseYear": "1er año", 
       "slug": "conceptos-de-algoritmos-datos-y-programas",
-      "description": "Introducción a los algoritmos, estructuras de datos y conceptos básicos de programación."
+      "description": "Introducción a los algoritmos, estructuras de datos y conceptos básicos de programación.",
+      "ejercicios": [
+        {
+          "title": "TP1 | Estructuras de control",
+          "practice": "Trabajo práctico 1",
+          "link": "https://github.com/juaana/CADP/tree/main/TP1",
+          "type": "ejercicios"
+        },
+        {
+          "title": "TP2 | Funciones procedimientos y parámetros",
+          "practice": "Trabajo práctico 2",
+          "link": "https://github.com/juaana/CADP/tree/main/TP2",
+          "type": "ejercicios"
+        },
+        {
+          "title": "TP3 | Registros",
+          "practice": "Trabajo práctico 3",
+          "link": "https://github.com/juaana/CADP/tree/main/TP3",
+          "type": "ejercicios"
+        },
+        {
+          "title": "TP4 | Vectores",
+          "practice": "Trabajo práctico 4",
+          "link": "https://github.com/juaana/CADP/tree/main/TP4",
+          "type": "ejercicios"
+        },
+        {
+          "title": "TP5 | Punteros",
+          "practice": "Trabajo práctico 5",
+          "link": "https://github.com/juaana/CADP/tree/main/TP5",
+          "type": "ejercicios"
+        },
+        {
+          "title": "TP6 | Listas",
+          "practice": "Trabajo práctico 6",
+          "link": "https://github.com/juaana/CADP/tree/main/TP6",
+          "type": "ejercicios"
+  
+        }]
+    
+    
     },
     { 
       "title": "Organización de computadoras", 
@@ -225,15 +265,191 @@
       "quarter": "1er cuatrimestre", 
       "courseYear": "1er año", 
       "slug": "organizacion-de-computadoras",
-      "description": "Estudio de la arquitectura interna de las computadoras, incluyendo procesadores y memoria."
-    },
-    { 
-      "title": "Matemática 2", 
-      "year": "2024", 
-      "quarter": "2do cuatrimestre", 
-      "courseYear": "1er año", 
-      "slug": "matematica-2",
-      "description": "Expansión de los conceptos matemáticos, incluyendo álgebra avanzada y cálculo."
+      "description": "Estudio de la arquitectura interna de las computadoras, incluyendo procesadores y memoria.",
+      "apuntes": [
+        {
+          "title": "Representación numérica",
+          "practice": "Trabajo práctico 1",
+          "link": "https://drive.google.com/file/d/1YQ81rABcH1ssbOC-HvAPJ-EapOf0j9JN/view?usp=sharing",
+          "type": "apuntes"
+        },
+       
+        {
+          "title": "Sistema de numeración en punto flotante",
+          "practice": "Trabajo práctico 2",
+          "link": "https://drive.google.com/file/d/1G_yNbqVvXjxPuAPELNt1DfcrVdht6DuH/view?usp=sharing",
+          "type": "apuntes"
+        },
+       
+        {
+          "title": "", 
+          "practice": "Trabajo práctico 3",
+          "link": "",
+          "type": "apuntes"
+        },
+       
+        {
+          "title": "Assembler",
+          "practice": "Trabajo práctico 4",
+          "link": "https://drive.google.com/file/d/1D1KSSIrOZqJ5YGdCYHE3hVV25cWOPzlQ/view?usp=sharing",
+          "type": "apuntes"
+        }  
+      ],
+      "teoria": [
+        {
+          "title": "Computadoras digitales",
+          "practice": "Teoría 1",
+          "link": "https://docs.google.com/document/d/1bKA3Sps9ff1hqk8WSGvmo-ftaL-nKITF37XW2g7urT4/edit?usp=sharing",
+          "type": "teoria"
+        } ,
+        {
+          "title": "Aritmética de computadoras",
+          "practice": "Teoría 2",
+          "link": "https://docs.google.com/document/d/1YOnlVdPPYrXjgve_GKFFkw_6665WZhXaLgxR1yrWSpU/edit?usp=sharing",
+          "type": "teoria"
+        }, 
+        {
+          "title": "Lógica digital", 
+          "practice": "Teoría 3",
+          "link": "https://docs.google.com/document/d/1Jwce5QiCFcLv3gcyADK27OTcUpqfA4cf8GK9T2Tuo-w/edit?usp=sharing",
+          "type": "teoria"
+        },
+        {
+          "title": "Unidad central de procesamiento",
+          "practice": "Teoría 4",
+          "link": "https://docs.google.com/document/d/1MVT4nTw79VGBp84_axVWVApuLBRdRpSx2kkhhCJ2GG8/edit?usp=sharing",
+          "type": "teoria"
+        },
+        {
+          "title": "Memoria",
+          "practice": "Teoría 5",
+          "link": "https://docs.google.com/document/d/1MCHHyh7Gnnp6F2RGnUZQSf2fS1zw9PZPF75tuoeef1Y/edit?usp=sharing",
+          "type": "teoria"
+        },
+        {
+          "title": "Periféricos",
+          "practice": "Teoría 6",
+          "link": "https://docs.google.com/document/d/1EV8Egsx7-Y2Qd9J52k1u7-DsWUZCxNKGc3OaVEg9_Ms/edit?usp=sharing",
+          "type": "teoria"
+        }
+      ],
+      "resources": {
+        "Introducción a numeración (Decimal, Binario, Hexadecimal)": {
+          "¿Cómo se cuenta en binario?":[
+            "https://www.youtube.com/watch?v=zFGzm1F8JYk&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=1&pp=iAQB"
+          ],
+          "Equivalencias entre decimal, binario y hexadecimal": [
+            "https://www.youtube.com/watch?v=KopiF0x8qxI&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=2&pp=iAQB"
+          ],
+          "Conversión entre sistemas de numeración": [
+            "https://www.youtube.com/watch?v=9s8oGkrqNbI&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=3&pp=iAQB",
+            "https://www.youtube.com/watch?v=o6JodypQY2o&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=5&pp=iAQB",
+            "https://www.youtube.com/watch?v=JXcMBeKe6Jo&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=6&pp=iAQB0gcJCYYJAYcqIYzv",
+            "https://www.youtube.com/watch?v=k4jWj1NLWaI&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=8&pp=iAQB",
+            "https://www.youtube.com/watch?v=EwrnM2BJ9zU&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=9&pp=iAQB",
+            "https://www.youtube.com/watch?v=_rE4nzRE8hs&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=10&pp=iAQB",
+            "https://www.youtube.com/watch?v=U5_wJJCQtyw&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=11&pp=iAQB",
+            "https://www.youtube.com/watch?v=Ae-4xzwbtOs&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=12&pp=iAQB"
+          ],
+          "Binario con signo, binario sin signo y complemento a 1": [
+            "https://www.youtube.com/watch?v=eQc6ZWTzmD0&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=13&pp=iAQB",
+            "https://www.youtube.com/watch?v=j-J6gmeZPpM&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=14&pp=iAQB"
+          ],
+          "Complemento a 2": [
+            "https://www.youtube.com/watch?v=KnSa89LKeO0&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=15&pp=iAQB0gcJCYYJAYcqIYzv"
+          ],
+          "Rango": [
+            "https://www.youtube.com/watch?v=g_e5eV3UE6Y&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=22&pp=iAQB",
+            "https://www.youtube.com/watch?v=5JlzRm9q_Zk&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=23&pp=iAQB",
+            "https://www.youtube.com/watch?v=ruwsbxxd8tU&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=24&pp=iAQB",
+            "https://www.youtube.com/watch?v=CLB0l0NJfg8&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=25&pp=iAQB0gcJCYYJAYcqIYzv",
+            "https://www.youtube.com/watch?v=qCc7b287PJk&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=26&pp=iAQB",
+            "https://www.youtube.com/watch?v=hSdkaOaTv7g&list=PLeHHODkiGycAC98vqV4vuT23dGpZXVzXW&index=27&pp=iAQB"
+          ]
+
+        },
+        "Aritmética con números binarios": {
+          "Suma de números binarios": [
+            "https://www.youtube.com/watch?v=8q-BnP8g5UQ&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9",
+            "https://www.youtube.com/watch?v=hVijaxUHjlU&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=2&pp=iAQB",
+            "https://www.youtube.com/watch?v=8RnEyf9izVE&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=3&pp=iAQB0gcJCYYJAYcqIYzv",
+            "https://www.youtube.com/watch?v=YgtIVptfAsM&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=4&pp=iAQB0gcJCYYJAYcqIYzv"
+          ],
+          "Resta de números binarios": [
+            "https://www.youtube.com/watch?v=jdiOGMlWo7w&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=5&pp=iAQB",
+            "https://www.youtube.com/watch?v=Q9SQBtSGzjQ&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=6&pp=iAQB",
+            "https://www.youtube.com/watch?v=iXEP6qPP9_o&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=7&pp=iAQB",
+            "https://www.youtube.com/watch?v=tw5hv-gmvcw&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=8&pp=iAQB",
+            "https://www.youtube.com/watch?v=2Cka9PwjQ9s&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=9&pp=iAQB"
+          ],
+          "Half adder": [
+            "https://www.youtube.com/watch?v=4SXNe6zELrU&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=12&pp=iAQB0gcJCYYJAYcqIYzv"  
+          ],
+          "Full adder": [
+            "https://www.youtube.com/watch?v=qabXHcUCiVQ&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=13&pp=iAQB" ,
+            "https://www.youtube.com/watch?v=bKfpM-_yHN4&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=14&pp=iAQB0gcJCYYJAYcqIYzv" 
+          
+          ],
+          "Flags":[
+            "https://www.youtube.com/watch?v=LzAVv7SvMDE&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=15&pp=iAQB",
+            "https://www.youtube.com/watch?v=khqYPxIa6rE&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=16&pp=iAQB",
+            "https://www.youtube.com/watch?v=1a4J_B9Vtxc&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=17&pp=iAQB",
+            "https://www.youtube.com/watch?v=xPHdB8tVm74&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=18&pp=iAQB",
+            "https://www.youtube.com/watch?v=U5e2ETi99GA&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=19&pp=iAQB",
+            "https://www.youtube.com/watch?v=qU-59y0EcdI&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=20&pp=iAQB",
+            "https://www.youtube.com/watch?v=FgdklF5t65g&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=21&pp=iAQB",
+            "https://www.youtube.com/watch?v=F1c06ZtETNQ&list=PLeHHODkiGycAAulCmXzCfGj9ec0Hd-dX9&index=22&pp=iAQB"
+          ]
+        },
+        "BCH y BCD":{
+          "BCH": [
+            "https://www.youtube.com/watch?v=WxlQA4N0JKg&list=PLeHHODkiGycDkjgqLTYiYWG2hJa_yfKDq&index=1&pp=iAQB",
+            "https://www.youtube.com/watch?v=RAG8POkIN1s&list=PLeHHODkiGycDkjgqLTYiYWG2hJa_yfKDq&index=2&pp=iAQB0gcJCYYJAYcqIYzv"
+        ],
+        "BCD": [
+          "https://www.youtube.com/watch?v=UUyhf9xzahI&list=PLeHHODkiGycDkjgqLTYiYWG2hJa_yfKDq&index=4&pp=iAQB",
+          "https://www.youtube.com/watch?v=ncCl3qNUMPU&list=PLeHHODkiGycDkjgqLTYiYWG2hJa_yfKDq&index=3&pp=iAQB",
+          "https://www.youtube.com/watch?v=AJbu-pg3jSc&list=PLeHHODkiGycDkjgqLTYiYWG2hJa_yfKDq&index=5&pp=iAQB"
+
+        ]
+        },
+        "IEEE754":{
+          "IEEE754": [
+            "https://www.youtube.com/watch?v=XvvRIhCdbdk&list=PLeHHODkiGycDbgJU1hin14dveBTWDocU6&index=1&pp=iAQB",
+            "https://www.youtube.com/watch?v=RcRhqg4jKHo&list=PLeHHODkiGycDbgJU1hin14dveBTWDocU6&index=2&pp=iAQB",
+            "https://www.youtube.com/watch?v=rDIly0k6qjo&list=PLeHHODkiGycDbgJU1hin14dveBTWDocU6&index=3&pp=iAQB",
+            "https://www.youtube.com/watch?v=c7ztERGL5y0&list=PLeHHODkiGycDbgJU1hin14dveBTWDocU6&index=4&pp=iAQB"
+          ],
+          "Rango":[
+            "https://www.youtube.com/watch?v=x-NDgb7WrhE&list=PLeHHODkiGycDbgJU1hin14dveBTWDocU6&index=5&pp=iAQB"
+          ],
+          "Pasaje de decimal a IEEE754":[
+            "https://www.youtube.com/watch?v=SLvMe_POgs4&list=PLeHHODkiGycDbgJU1hin14dveBTWDocU6&index=6&pp=iAQB",
+            "https://www.youtube.com/watch?v=_FPCmWn9Y10&list=PLeHHODkiGycDbgJU1hin14dveBTWDocU6&index=7&pp=iAQB0gcJCYYJAYcqIYzv",
+            "https://www.youtube.com/watch?v=GS9u1rrlZFI&list=PLeHHODkiGycDbgJU1hin14dveBTWDocU6&index=8&pp=iAQB"
+          ]
+        },
+        "Circuitos lógicos":{
+           "Circuitos combinatorios, equivalencias y compuertas universales": [
+            "https://www.youtube.com/watch?v=_ngouqo_968&list=PLw3_MBoxXizjW8G14nJo0ubYMRQIpHqNp&index=12&pp=iAQB"
+           ],
+           "Flip Flop":[
+            "https://www.youtube.com/watch?v=6CElVPp-0QU&list=PLw3_MBoxXizjW8G14nJo0ubYMRQIpHqNp&index=13&pp=iAQB",
+            "https://www.youtube.com/watch?v=iykQzRE8_6A&list=PLw3_MBoxXizjW8G14nJo0ubYMRQIpHqNp&index=14&pp=iAQB"
+           ]
+
+        },
+        "Assembler":{
+          "Sobre el lenguaje ensamblador":[
+            "https://www.youtube.com/watch?v=u4TLsyxDkfc&list=PLw3_MBoxXizjW8G14nJo0ubYMRQIpHqNp&index=17&pp=iAQB0gcJCYYJAYcqIYzv",
+            "https://www.youtube.com/watch?v=7oGLSM5OZJA&list=PLw3_MBoxXizjW8G14nJo0ubYMRQIpHqNp&index=18&pp=iAQB"
+          ],
+          "Pila y subrutinas":[
+            "https://www.youtube.com/watch?v=8EhNyDzkW6I&list=PLw3_MBoxXizjW8G14nJo0ubYMRQIpHqNp&index=20&pp=iAQB"
+          ]
+        }
+
+      }
     },
     { 
       "title": "Taller de programación", 
@@ -284,8 +500,8 @@
     },
     { 
       "title": "Seminario de lenguaje - PHP, React, API Rest", 
-      "year": "2024", 
-      "quarter": "2do cuatrimestre", 
+      "year": "2025", 
+      "quarter": "1er cuatrimestre", 
       "courseYear": "2do año", 
       "slug": "seminario-de-lenguaje-php-react-api-rest",
       "description": "Curso avanzado de desarrollo web que abarca PHP, React y la creación de APIs REST."

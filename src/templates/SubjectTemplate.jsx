@@ -12,12 +12,13 @@ function SubjectTemplate() {
     return <div>Materia no encontrada</div>;
   }
 
-  const { title, description, resources, apuntes, ejercicios, id } = materia;  
+  const { title, description, resources, apuntes, ejercicios, teoria, id } = materia;  
 
   // Combinamos apuntes y ejercicios en un solo array si existen
   const combinedItems = [
     ...(apuntes || []), 
-    ...(ejercicios || [])
+    ...(ejercicios || []),
+    ...(teoria || [])
   ]; // Esto junta ambos arrays en uno solo, asegurándose de que no sean undefined
 
   return (

@@ -42,6 +42,14 @@ function CardResumenTemplate({ items = [], type = "apuntes" }) {
         >
           Ejercicios
         </button>
+        <button
+          onClick={() => setFiltroTipo("teoria")}
+          className={`px-3 py-1 ${filtroTipo === "teoria" ? "text-white border-b-2 border-white" : "text-neutral-400"}`}
+          aria-selected={filtroTipo === "teoria"}
+          aria-label="Mostrar solo teoría"
+        >
+          Teoría
+        </button>
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-3 mt-3">
